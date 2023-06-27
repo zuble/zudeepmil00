@@ -1,0 +1,13 @@
+**__pycache__
+**.vscode/
+
+**ckpts/*
+**debug/*
+
+**.data-00000-of-00001
+**.index
+**.pb
+**.h5
+**.tf
+**.log
+**.out
